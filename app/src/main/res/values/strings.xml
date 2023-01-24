@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ROOM LIVEDATA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="zero_string">0</string>
+    <string name="cart_string">Cart</string>
+    <string name="livedata_check_string">LIVE DATA CHECK</string>
+    <string name="room_check_string">ROOM CHECK</string>
+    <string name="title_normal">LIVEDATA NORMAL</string>
+    <string name="title_dynamic">LIVEDATA DYNAMIC</string>
+    <string name="title_set">LIVEDATA SET</string>
+    <string name="save_data_string">Save Data</string>
+    <string name="input_string">Give Input For Save</string>
+    <string name="result_stirng">Result Of Work</string>
+    <string name="edit_stirng">Edit</string>
+    <string name="Delete_stirng">Delete</string>
+    <string name="Deleteall_stirng">Delete ALL</string>
+</resources>
